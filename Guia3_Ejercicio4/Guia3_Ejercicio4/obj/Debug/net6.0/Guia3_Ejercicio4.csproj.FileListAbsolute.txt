@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Documentos\Programación II\Guia3\Guia3_Ejercicio4\Guia3_Ejercicio4\bin\Debug\net6.0\Guia3_Ejercicio4.exe
+C:\Users\david\OneDrive\Documentos\Programación II\Guia3\Guia3_Ejercicio4\Guia3_Ejercicio4\bin\Debug\net6.0\Guia3_Ejercicio4.deps.json
+C:\Users\david\OneDrive\Documentos\Programación II\Guia3\Guia3_Ejercicio4\Guia3_Ejercicio4\bin\Debug\net6.0\Guia3_Ejercicio4.runtimeconfig.json
+C:\Users\david\OneDrive\Documentos\Programación II\Guia3\Guia3_Ejercicio4\Guia3_Ejercicio4\bin\Debug\net6.0\Guia3_Ejercicio4.dll
+C:\Users\david\OneDrive\Documentos\Programación II\Guia3\Guia3_Ejercicio4\Guia3_Ejercicio4\bin\Debug\net6.0\Guia3_Ejercicio4.pdb
+C:\Users\david\OneDrive\Documentos\Programación II\Guia3\Guia3_Ejercicio4\Guia3_Ejercicio4\obj\Debug\net6.0\Guia3_Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Documentos\Programación II\Guia3\Guia3_Ejercicio4\Guia3_Ejercicio4\obj\Debug\net6.0\Guia3_Ejercicio4.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Documentos\Programación II\Guia3\Guia3_Ejercicio4\Guia3_Ejercicio4\obj\Debug\net6.0\Guia3_Ejercicio4.AssemblyInfo.cs
+C:\Users\david\OneDrive\Documentos\Programación II\Guia3\Guia3_Ejercicio4\Guia3_Ejercicio4\obj\Debug\net6.0\Guia3_Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Documentos\Programación II\Guia3\Guia3_Ejercicio4\Guia3_Ejercicio4\obj\Debug\net6.0\Guia3_Ejercicio4.dll
+C:\Users\david\OneDrive\Documentos\Programación II\Guia3\Guia3_Ejercicio4\Guia3_Ejercicio4\obj\Debug\net6.0\refint\Guia3_Ejercicio4.dll
+C:\Users\david\OneDrive\Documentos\Programación II\Guia3\Guia3_Ejercicio4\Guia3_Ejercicio4\obj\Debug\net6.0\Guia3_Ejercicio4.pdb
+C:\Users\david\OneDrive\Documentos\Programación II\Guia3\Guia3_Ejercicio4\Guia3_Ejercicio4\obj\Debug\net6.0\Guia3_Ejercicio4.genruntimeconfig.cache
+C:\Users\david\OneDrive\Documentos\Programación II\Guia3\Guia3_Ejercicio4\Guia3_Ejercicio4\obj\Debug\net6.0\ref\Guia3_Ejercicio4.dll
